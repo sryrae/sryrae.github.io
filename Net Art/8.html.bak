@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Yes, I do.</title>
+<style>
+body{background-color:#000000;}
+h1 {text-align:center;}
+</style>
+</head>
+<body>
+
+<h1 style="font-size:50px;color:Red;">I am self-denial.
+</h1>
+<p>
+<img src="8.jpg" alt="I'm self-denial" style="float:left">
+</p>
+<p style="font-size:30px;color:Red;">I am every feeling you blocked out.</p>
+<p style="font-size:30px;color:Red;">Every joy you denied yourself.</p>
+<p>
+<a href="index.html">Keep in mind</a>
+</p>
+</body>
+</html>

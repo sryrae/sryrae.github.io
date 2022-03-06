@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Yes, I do.</title>
+<style>
+body{background-color:#000000;}
+
+</style>
+</head>
+<body>
+<p>
+<img src="decay.jpg" alt="I'm decay" style="float:left">
+</p>
+<h1 style="font-size:50px;color:Red;">I am decay.
+</h1>
+<p style="font-size:30px;color:Red;">I am waiting for you.</p>
+<h2 style="font-size:50px;color:Red;">I am anxiety.
+</h2>
+<p style="font-size:30px;color:Red;">Please help me.</p>
+
+<p>
+<a href="12.html" style="color:white">Return</a>
+<a href="index.html" style="color:Red">Keep in mind</a>
+<a href="14.html" style="font-size:30px;color:Maroon">This is the END</a>
+</p>
+</body>
+</html>
