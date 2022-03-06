@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Yes, I do.</title>
+<style>
+body{background-color:#000000;}
+h1 {text-align:center;}
+</style>
+</head>
+<body>
+
+<h1 style="font-size:50px;color:Red;backg">I am burden.
+</h1>
+<p>
+<img src="5.png" alt="I'm burden" style="float:left;width:512px;height:512px;background-color:white"></p>
+<p style="font-size:30px;color:Red;">Each day I work tirelessly,</p>
+<p style="font-size:30px;color:Red;">Pretending my worthless existence means something.</p>
+<p style="font-size:30px;color:Red;">I carry your world on my shoulders.</p>
+<p style="font-size:30px;color:Red;">I am so tired.</p>
+<p style="font-size:30px;color:Red;">Do not make me carry it all.</p>
+
+
+
+
+
+<p>
+<a href="index.html">Keep in mind</a>
+</p>
+</body>
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Yes, I do.</title>
+<style>
+body{background-color:#000000;}
+h1 {text-align:center;}
+</style>
+</head>
+<body>
+
+<h1 style="font-size:50px;color:Red;">I am guilt.
+</h1>
+<p>
+<img src="8.jpg" alt="I'm self-denial" style="float:left">
+</p>
+<p style="font-size:30px;color:Red;">I watch the mistakes you made over and over.</p>
+<p style="font-size:30px;color:Red;">And I watch you do nothing.</p>
+<p style="font-size:30px;color:Red;">OVER, AND OVER.</p>
+<p>
+<a href="9.html" style="color:white">Return</a>
+<a href="index.html" style="color:Red">Keep in mind</a>
+<a href="11.html" style="color:white">Next</a>
+</p>
+</body>
+</html>

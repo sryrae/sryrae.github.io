@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Yes, I do.</title>
+<style>
+body{background-color:#000000;}
+h1 {text-align:center;}
+</style>
+</head>
+<body>
+
+<h1 style="font-size:50px;color:Red;">I am addiction.</h1>
+<p>
+<img src="3.jpg" alt="I'm hopeless" style="float:left;width:630px;height:532px;">
+</p>
+<p style="font-size:30px;color:Red;">I am everything you used to forget,</p>
+<p style="font-size:30px;color:Red;">Everything you used to pretend to exist.</p>
+
+<p>
+<a href="2.html">Return</a>
+<a href="index.html">Keep in mind</a>
+<a href="4.html">Next</a>
+</p>
+</body>
+</html>
