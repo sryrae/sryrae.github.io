@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Rae's portfolio</title>
+</head>
+<body>
+
+<h1>Hey!</h1>
+
+<button onclick="document.location='default.asp'">Glitch</button>
+
+</body>
+</html>
