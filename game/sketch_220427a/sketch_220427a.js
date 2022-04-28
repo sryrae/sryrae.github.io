@@ -43,7 +43,7 @@ if(gameState =="L3"){
   levelThree();
 }
 if(gameState =="Win"){
-    background(img5);
+    background(img6);
   win();
 }
   text(("Score: " + score), width/2, 40);
