@@ -2,7 +2,7 @@ var ballx = 300; // width/2 ?
 var bally = 300;
 var ballSize = 40;
 var score =0;
-var img1, img2, img3, img4, img5, img6, beginImg;
+var img1, img2, img3, img4, img5, beginImg;
 var gameState ="begin";
 
 function preload() {
@@ -11,8 +11,7 @@ function preload() {
   img2 = loadImage('smile.png');
   img3 = loadImage('2.png');
   img4 = loadImage('3.png');
-  img5 = loadImage('4.png');
-  img6 = loadImage('5.jpg');
+  img5 = loadImage('5.jpg');
   beginImg = loadImage('6.jpg');
 }
 
@@ -43,7 +42,7 @@ if(gameState =="L3"){
   levelThree();
 }
 if(gameState =="Win"){
-    background(img6);
+    background(img5);
   win();
 }
   text(("Score: " + score), width/2, 40);
