@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+<style>
+a:link {
+  color: black;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: hotpink;
+  text-decoration: none;
+}
+
+a:active {
+  color: black;
+  text-decoration: none;
+}
+*{box-sizing: border-box}
+body {font-family: Verdana, sans-serif; margin:0}
+.mySlides {display: none}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.wefade {
+  animation-name: wefade;
+  animation-duration: 1.5s;
+}
+
+@keyframes wefade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
+ body { background-image:url('6.gif'); background-repeat:repeat; }
+
+</style>
+</head>
+<body>
+
+<h1 style="text-align:center;","font-family:georgia;">Rae Sun</h1>
+
+<ul class="nav justify-content-center">
+    <li class="nav-item">
+      <a class="nav-link" href="http://sryrae.github.io/glitch/glitch.html"target="_blank">Glich</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="http://sryrae.github.io/meme/meme.html"target="_blank">Meme Mashup</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="http://sryrae.github.io/sketch_diyps2022/index.html" target="_blank">DIY Photoshop</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="https://sryrae.github.io/Net%20Art/"target="_blank">Net Art</a>
+    </li>
+	    <li class="nav-item">
+      <a class="nav-link" href="https://sryrae.github.io/selfportrait/selfportrait.html"target="_blank">Selfportrate</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="https://sryrae.github.io/mc%203d/mc%203d.html"target="_blank">Minecraft 3D Print</a>
+    </li>
+	<li class="nav-item">
+      <a class="nav-link" href="https://sryrae.github.io/final/final.html"target="_blank">Final Project 2022</a>
+    </li>
+  </ul>
+</div>
+
+<div class="slideshow-container">
+
+<div class="mySlides wefade">
+  <div class="numbertext">1 / 7</div>
+  <a href="http://sryrae.github.io/glitch/glitch.html"target="_blank"><img src="cat copy.png" style="width:100%"></a>
+  <div class="text">Glich</div>
+</div>
+
+<div class="mySlides wefade">
+  <div class="numbertext">2 / 7</div>
+  <a href="http://sryrae.github.io/meme/meme.html"target="_blank"><img src="meme.jpg" style="width:100%"></a>
+  <div class="text">Meme Mashup</div>
+</div>
+
+<div class="mySlides wefade">
+  <div class="numbertext">3 / 7</div>
+  <a href="http://sryrae.github.io/sketch_diyps2022/index.html"target="_blank"><img src="3.png" style="width:100%"></a>
+  <div class="text">DIY photoshop</div>
+</div>
+
+<div class="mySlides wefade">
+  <div class="numbertext">4 / 7</div>
+  <a href="https://sryrae.github.io/Net%20Art/"target="_blank"><img src="1.jpg" style="width:100%"></a>
+  <div class="text">Net Art</div>
+</div>
+
+<div class="mySlides wefade">
+  <div class="numbertext">5 / 7</div>
+  <a href="https://sryrae.github.io/selfportrait/self.html"target="_blank"><img src="2.png" style="width:100%"></a>
+  <div class="text">Selfportrate</div>
+</div>
+
+<div class="mySlides wefade">
+  <div class="numbertext">6 / 7</div>
+  <a href="https://sryrae.github.io/selfportrait/self.html"target="_blank"><img src="5.png" style="width:100%"></a>
+  <div class="text">Minecraft 3D Print</div>
+</div>
+
+<div class="mySlides wefade">
+  <div class="numbertext">7 / 7</div>
+  <a href="https://sryrae.github.io/selfportrait/self.html"target="_blank"><img src="4.png" style="width:100%"></a>
+  <div class="text">Final Project 2022</div>
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">❮</a>
+<a class="next" onclick="plusSlides(1)">❯</a>
+
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span>
+  <span class="dot" onclick="currentSlide(4)"></span>  
+  <span class="dot" onclick="currentSlide(5)"></span>
+  <span class="dot" onclick="currentSlide(6)"></span>
+  <span class="dot" onclick="currentSlide(7)"></span>
+</div>
+
+<script>
+let slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  let i;
+  let slides = document.getElementsByClassName("mySlides");
+  let dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+}
+</script>
+
+</body>
+</html> 
